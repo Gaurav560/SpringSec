@@ -39,7 +39,7 @@ public class UserController {
     // Endpoint for a simple welcome message
     @GetMapping("/welcome")
     public String welcome() {
-        return "welcome to spring security tutorials";
+        return "welcome to Telusko spring security tutorials";
     }
     
     
